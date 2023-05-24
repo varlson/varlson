@@ -9,8 +9,9 @@
 
 - 📫 How to reach me **dev.varlson@gmail.com**
 
-- 📫 Fom **Guiné-Bissau ![guinea-bissau](https://github.com/varlson/varlson/assets/54964917/5acfcbd4-d828-4d77-bd51-69e3539ee1a9)**
+- 📫 Fom **Guiné-Bissau** <img src="https://github.com/varlson/varlson/assets/54964917/5acfcbd4-d828-4d77-bd51-69e3539ee1a9" width="25" height="25">
 
+- 📫 Computer Science at **Universidade Federal de Ouro Preto** <img src="https://github.com/varlson/varlson/assets/54964917/8031ba1b-362f-43cf-85a1-4bcaff932c04" width="60" height="20"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
