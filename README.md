@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **dev.varlson@gmail.com**
 
+- 📫 Fom **Guiné-Bissau ![guinea-bissau](https://github.com/varlson/varlson/assets/54964917/5acfcbd4-d828-4d77-bd51-69e3539ee1a9)**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/suleimane-ducure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/suleimane-ducure" height="30" width="40" /></a>
