@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Reactjs, React Native, Nextjs, Nodejs,Mongodb**
 
+- 👨‍💻 Interning at **COMPASSUOL**
+
 - 📫 How to reach me **dev.varlson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
