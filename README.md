@@ -10,12 +10,12 @@ Full Stack & Mobile Developer • MSc Student in AI & Data Science
 ---
 
 ### 👨‍💻 About me
-- 🎓 **Bachelor’s in Computer Science** — Universidade Federal de Ouro Preto (UFOP)  
-- 🎓 **Master’s Student in Computer Science (AI & Data Science)** — UFOP  
-- 💼 **Full Stack & Mobile Developer** (Web & Mobile)  
-- 🔬 **Research Student** in the field of **Complex Networks**  
-- 🌍 From **Guiné-Bissau** 🇬🇼, currently based in **Brazil**
 
+- 🎓 **Bachelor’s in Computer Science** — Universidade Federal de Ouro Preto (UFOP)
+- 🎓 **Master’s Student in Computer Science (AI & Data Science)** — UFOP
+- 💼 **Full Stack & Mobile Developer** (Web & Mobile)
+- 🔬 **Research Student** in the field of **Complex Networks**
+- 🌍 From **Guiné-Bissau** 🇬🇼, currently based in **Brazil**
 
 ---
 
@@ -25,23 +25,24 @@ Full Stack & Mobile Developer • MSc Student in AI & Data Science
   Universidade Federal de Ouro Preto — Department of Electrical Engineering
 
 - **Mobile Developer (Intern / Trainee)**  
-  **Compass UOL**  
+  **Compass UOL**
+
   > Mobile application development using **React Native**
 
 - **Undergraduate Researcher (Scientific Initiation)**  
-  Universidade Federal de Ouro Preto  
+  Universidade Federal de Ouro Preto
   > Research on **Complex Networks**, **Mobility Networks** and **Robustness Analysis**
 
 ---
 
 ### 🌱 Currently Working With / Studying
 
-- **Backend:** Node.js, NestJS, Express, REST APIs  
-- **Frontend:** React.js, Next.js, Tailwind CSS  
-- **Mobile:** React Native  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Research:** Artificial Intelligence, Data Science, Complex Networks  
-- **Tools:** Git, GitHub, Linux, Figma, Jest  
+- **Backend:** Node.js, NestJS, Express, REST APIs
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Mobile:** React Native
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Research:** Artificial Intelligence, Data Science, Complex Networks
+- **Tools:** Git, GitHub, Linux, Figma, Jest
 
 ---
 
@@ -63,8 +64,8 @@ Full Stack & Mobile Developer • MSc Student in AI & Data Science
   <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>          
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
